@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.14.2](https://github.com/berahac/ghr/compare/v0.14.1...v0.14.2) (2022-04-05)
+
+
 ## [v0.14.2-cowk](https://github.com/berahac/ghr/compare/v0.14.1...v0.14.2-cowk) (2022-04-05)
 
 
