@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.14.1](https://github.com/berahac/ghr/compare/v0.14.0...v0.14.1) (2021-06-15)
+
+
 ## [v0.14.0](https://github.com/tcnksm/ghr/compare/v0.13.0...v0.14.0) (2021-06-15)
 
 * udpate deps [#134](https://github.com/tcnksm/ghr/pull/134) ([Songmu](https://github.com/Songmu))
